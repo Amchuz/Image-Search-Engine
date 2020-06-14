@@ -1,1 +1,2 @@
-The files for each spot can be downloaded from any dataset and can be named from 100000, 100001, 100002 and so on
+The files for each spot can be downloaded from any dataset and can be named from 100000, 100001, 100002 and so on  
+Here I am using INRIA Holidays Dataset 
